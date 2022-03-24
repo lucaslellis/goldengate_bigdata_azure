@@ -1,0 +1,29 @@
+img {
+    border: 2px solid #000;
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    font-size: 11pt;
+}
+
+h1 {
+    font-size: 16pt;
+}
+
+h2 {
+    font-size: 13pt;
+}
+
+h3 {
+    font-size: 12pt;
+}
+
+.title {
+    font-size: 24pt;
+}
+
+div.sourceCode {
+    border: 5px solid #ddd;
+}
